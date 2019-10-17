@@ -1,0 +1,3 @@
+[submodule "testSubmodules/aima-python"]
+	path = testSubmodules/aima-python
+	url = git@github.com:liyp0095/aima-python.git
